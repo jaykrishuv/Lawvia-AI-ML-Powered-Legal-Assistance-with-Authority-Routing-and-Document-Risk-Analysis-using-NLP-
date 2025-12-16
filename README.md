@@ -1,0 +1,2 @@
+# Lawvia-AI-ML-Powered-Legal-Assistance-with-Authority-Routing-and-Document-Risk-Analysis-using-NLP-
+Lawvia AI is an intelligent legal assistance platform that helps users understand legal issues, analyze documents for potential risks, generate complaint letters, and route complaints to appropriate authorities. It uses ML and NLP with a chatbot, document risk analysis, and structured authority routing for effective legal support.
